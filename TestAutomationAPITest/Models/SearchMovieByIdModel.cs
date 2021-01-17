@@ -3,6 +3,7 @@ using RestSharp.Serialization.Json;
 using System.Collections.Generic;
 using System.Net;
 
+
 namespace TestAutomationAPITest.Models
 {
     public class SearchMovieByIdModel
